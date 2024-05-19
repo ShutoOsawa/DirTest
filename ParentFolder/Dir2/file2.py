@@ -1,5 +1,5 @@
 
-from ParentFolder.Dir1.file1 import toBeImported
+from Dir1.file1 import toBeImported
 def print2():
     print("this is dir2 file2")
 
