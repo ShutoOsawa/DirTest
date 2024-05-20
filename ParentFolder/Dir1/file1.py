@@ -1,4 +1,5 @@
-from ParentFolder import testcall
+import testcall
+
 def print1():
     print('this is dir1 file1')
     testcall.parentFolder()
